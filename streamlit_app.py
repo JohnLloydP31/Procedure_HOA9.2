@@ -1,3 +1,6 @@
+!pip install streamlit
+!pip install tensorflow
+import streamlit as st
 import tensorflow as tf
 
 @st.cache(allow_output_mutation=True)
