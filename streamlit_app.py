@@ -1,5 +1,5 @@
-!pip install streamlit
-!pip install tensorflow
+pip install streamlit
+pip install tensorflow
 import streamlit as st
 import tensorflow as tf
 
